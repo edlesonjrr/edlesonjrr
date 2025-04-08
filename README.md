@@ -3,7 +3,7 @@
 
 ### Sobre Mim 😁
 
-Me chamo Edleson, mas podem me chamar de Eddy, tenho 21 anos e atualmente estou cursando Ciência da computação na Uninassau, em Recife-PE. Estou gostando bastante da área de Front, porém, pretendo me especializar a ponto de virar um progamador FullStack; melhorando a cada dia as tecnologias que estou estudando, e aprendendo novas.
+Me chamo Edleson, mas podem me chamar de Eddy, tenho 22 anos e atualmente estou cursando Ciência da computação na Uninassau, em Recife-PE. Estou gostando bastante da área de Front, porém, pretendo me especializar a ponto de virar um progamador FullStack; melhorando a cada dia as tecnologias que estou estudando, e aprendendo novas. Atualmente trabalhando na Code3 Tech, como estagiário em várias frentes, adquirindo experiência para logo mais virar um progamador jr.
 <br/>
 
 ## Tecnologias que estou dominando 💻
