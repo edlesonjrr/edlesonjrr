@@ -1,5 +1,10 @@
 
-## Olá! Eu sou Edleson Junior 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1,+tudo+bem!%3F;Seja+bem-vindo+ao+meu+GitHub+%F0%9F%98%8A&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000" alt="Typing SVG">
+</p>
+
+
+## Edleson Junior
 
 ### Sobre Mim 😁
 
