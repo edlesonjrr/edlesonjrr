@@ -3,10 +3,10 @@
 
 ### Sobre Mim 😁
 
-Me chamo Edleson, mas podem me chamar de Eddy, tenho 22 anos e atualmente estou cursando Ciência da computação na Uninassau, em Recife-PE. Estou gostando bastante da área de Front, porém, pretendo me especializar a ponto de virar um progamador FullStack; melhorando a cada dia as tecnologias que estou estudando, e aprendendo novas. Atualmente trabalhando na Code3 Tech, como estagiário em várias frentes, adquirindo experiência para logo mais virar um progamador jr.
+Me chamo Edleson, mas podem me chamar de Eddy, tenho 22 anos e atualmente estou cursando Ciência da computação na Uninassau no sétimo período, em Recife-PE. Estou gostando bastante da área de Front, porém, pretendo me especializar a ponto de virar um progamador FullStack; melhorando a cada dia as tecnologias que estou estudando, e aprendendo novas. Atualmente trabalhando na Code3 Tech, como estagiário em várias frentes, como backend e frontend, adquirindo experiência para logo mais virar um progamador jr.
 <br/>
 
-## Tecnologias que estou dominando 💻
+## Tecnologias  e ferramentas que estou dominando 💻
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,12 +15,17 @@ Me chamo Edleson, mas podem me chamar de Eddy, tenho 22 anos e atualmente estou 
     <img align="center" alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img align="center" alt="Phyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img align="center" alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img align="center" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+
 <br/>
 
 ![Edlesonjrr GitHub stats](https://github-readme-stats.vercel.app/api?username=edlesonjrr&theme=dracula&show_icons=true)
