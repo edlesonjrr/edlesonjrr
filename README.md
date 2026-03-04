@@ -33,8 +33,6 @@ Desenvolvedor Full Stack Júnior com formação em Ciência da Computação e ex
 
 <br/>
 
-![Edlesonjrr GitHub stats](https://github-readme-stats.vercel.app/api?username=edlesonjrr&theme=dracula&show_icons=true)
-
 ### Formas de entrar em contato 📞
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edleson-jr-97734b1a0/)
