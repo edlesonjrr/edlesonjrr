@@ -8,7 +8,7 @@
 
 ### Sobre Mim 😁
 
-Me chamo Edleson, mas podem me chamar de Eddy, tenho 22 anos e atualmente estou cursando Ciência da computação na Uninassau no sétimo período, em Recife-PE. Estou gostando bastante da área de Front, porém, pretendo me especializar a ponto de virar um progamador FullStack; melhorando a cada dia as tecnologias que estou estudando, e aprendendo novas. Atualmente trabalhando na Code3 Tech, como estagiário em várias frentes, como backend e frontend, adquirindo experiência para logo mais virar um progamador jr.
+Desenvolvedor Full Stack Júnior com formação em Ciência da Computação e experiência prática em desenvolvimento de aplicações web modernas. Atuação no Front-End com React, Next.js e TypeScript, criando interfaces responsivas e performáticas. No Back-End, experiência com Node.js e construção de APIs REST. Vivência com Docker, versionamento Git e integração com serviços em nuvem (Azure). Perfil analítico, organizado e focado em evolução contínua.
 <br/>
 
 ## Tecnologias  e ferramentas que estou dominando 💻
